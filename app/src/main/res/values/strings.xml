@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">dailyzen</string>
+    <string name="reminders_notification_channel_id">raco_dailyzen</string>
+    <string name="reminders_notification_channel_name">dailzen_notif</string>
+    <string name="appwidget_text">Dailyzen Quote</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">Get Stoic Quotes right on your home screen.</string>
 </resources>
